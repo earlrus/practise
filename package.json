@@ -1,0 +1,22 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "p1.js",
+  "module": "es6",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch p9.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "undici": "^6.19.8"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "co": "^4.6.0",
+    "rn-fetch-blob": "^0.12.0"
+  }
+}
